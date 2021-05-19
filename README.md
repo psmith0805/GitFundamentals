@@ -1,4 +1,4 @@
-# Git Exercises for mes
+# Git Exercises
 
 Git is a version control system that allows us to track changes and commit them to history.
 
